@@ -56,7 +56,7 @@
     "lodash": "^4.17.21",
     "pg-connection-string": "^2.5.0",
     "retry-as-promised": "^7.0.3",
-    "semver": "^7.3.7",
+    "semver": "^7.5.2",
     "sequelize-pool": "^8.0.0",
     "toposort-class": "^1.0.1",
     "type-fest": "^2.18.1",
